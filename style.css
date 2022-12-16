@@ -5,3 +5,18 @@ body{
 .highlight{
     color: orange;
 }
+.antu{
+    font-size: 30px;
+    background-color: aquamarine;
+    padding: 3%;
+    border-radius: 10px;
+}
+.rantu{
+    color: rgb(37, 107, 84);
+    font-size: 35px;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin: 5%;
+}
